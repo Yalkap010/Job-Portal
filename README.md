@@ -52,11 +52,13 @@ python manage.py runserver
 
 ![Settings Window]<img width="1700" height="819" alt="image" src="https://github.com/user-attachments/assets/557f0ad3-9b27-452c-a8b0-10e09f741149" />
 
-![Settings Window]
+![Settings Window]<img width="1434" height="859" alt="image" src="https://github.com/user-attachments/assets/6f600692-43b5-4c2e-a0a4-35aeeb88f22f" />
+
 
 <div align="center">
     <h3>========Thank You=========</h3>
 </div>
+
 
 
 
